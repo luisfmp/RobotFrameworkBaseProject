@@ -1,9 +1,4 @@
 # RobotFrameworkBaseProject
-Dependencies:
+It needs python 3.7 and Poetry:
 -------------
-
-- pip install robotframework
-- pip install robotframework-seleniumlibrary
-- pip install -U requests
-- pip install -U robotframework-requests
-- pip install webdriver_manager
+- curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python
